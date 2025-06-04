@@ -1,7 +1,7 @@
 # 📇 Portfolio 포트폴리오
 
 ## 🌱 프로젝트 링크  
-🔗 [ 포트폴리오 ](https://github.com/username/project-name)
+🔗 [ Portfolio 포트폴리오 ](https://github.com/mjpark-2k/portfolio.git)
 
 ---
 
@@ -96,4 +96,4 @@ npm start
 
 ## 📞 연락처
 - 📧 Email: mjpark.2k@gmail.com
-- 📒 Github: [ Github ](https://github.com/mjpark-2k)
+- 📒 Github: [ mjpark-2k ](https://github.com/mjpark-2k)
