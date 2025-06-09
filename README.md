@@ -41,7 +41,7 @@
 
 ```bash
 # 저장소 클론
-git clone https://github.com/mjpark-2k/portfolio.git
+git clone https://github.com/mingz-x/portfolio.git
 
 # 디렉토리 이동
 cd portfolio
@@ -50,8 +50,10 @@ cd portfolio
 npm install
 
 # 개발 서버 실행
-npm start
+npm run serve
 ```
+
+🔗 http://localhost:8080 에서 앱을 확인할 수 있습니다.
 
 ---
 
@@ -96,4 +98,4 @@ npm start
 
 ## 📞 연락처
 - 📧 Email: mjpark.2k@gmail.com
-- 📒 Github: [ mjpark-2k ](https://github.com/mjpark-2k)
+- 📒 Github:[ mjpark-2k ](https://github.com/mjpark-2k)
