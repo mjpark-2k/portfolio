@@ -1,7 +1,7 @@
 # 📇 Portfolio 포트폴리오
 
 ## 🌱 프로젝트 링크  
-🔗 [ Portfolio 포트폴리오 ](https://github.com/mjpark-2k/portfolio.git)
+🔗 [ Portfolio 포트폴리오 ](https://portfolio-mj2k.vercel.app)
 
 ---
 
